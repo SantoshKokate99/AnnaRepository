@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Promobi">
+  <test thread-count="5" name="Flipkart">
+    <classes>
+      <class name="interPromobi.Flipkart"/>
+    </classes>
+  </test> <!-- Flipkart -->
+</suite> <!-- Promobi -->
